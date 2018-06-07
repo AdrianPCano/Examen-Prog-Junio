@@ -7,7 +7,7 @@
  * En funcion de si el tratamiento del pedido es posible o no
  * la oficina procesa el pedido (true /false) 
  * e informa de su estado (aceptado /rechazado).
- * 
+ 
  * Como los pedidos pueden ser de multiples tipos, 
  * muchos de ellos aun desconocidos y cada uno 
  * con sus particularidades propias,
